@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Github Readme Stats</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,23 +13,17 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+Append `&theme=rose_pine` to the URL
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+https://github-readme-stats.vercel.app/api?username=thatonecalculator&theme=rose_pine:
+![](https://github-readme-stats.vercel.app/api?username=thatonecalculator&theme=rose_pine)
+
+https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=rose-pine-theme&theme=rose_pine:
+![](https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=rose-pine-theme&theme=rose_pine)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [ThatOneCalculator](https://github.com/thatonecalculator)
+- [rickstaa](https://github.com/rickstaa)
